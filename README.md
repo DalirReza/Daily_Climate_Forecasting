@@ -5,3 +5,4 @@ This project was done as the final project for the Data Mining course and focuse
 To model the sequential patterns, I experimented with different deep learning approaches including **LSTM**, **RNN**, and **GRU** networks. The models were trained and evaluated with metrics such as MAE, MSE, RMSE, and R². While simple LSTM and RNN models performed reasonably well, they sometimes suffered from underfitting or overfitting depending on the chosen parameters. The **GRU model** achieved the best balance of accuracy and efficiency, producing predictions that closely matched the real test data with lower error and faster training time.
 
 Overall, the project shows that GRU is a strong candidate for forecasting atmospheric pressure in this dataset, outperforming other recurrent models while also being computationally efficient.  
+ 
